@@ -1,0 +1,8 @@
+C:\Other\Study\OOP\LR_1-3,4_OOP\LR_1-3,4_OOP\bin\Debug\LR_1-3,4_OOP.exe.config
+C:\Other\Study\OOP\LR_1-3,4_OOP\LR_1-3,4_OOP\bin\Debug\LR_1-3,4_OOP.exe
+C:\Other\Study\OOP\LR_1-3,4_OOP\LR_1-3,4_OOP\bin\Debug\LR_1-3,4_OOP.pdb
+C:\Other\Study\OOP\LR_1-3,4_OOP\LR_1-3,4_OOP\obj\Debug\LR_1-3,4_OOP.csproj.AssemblyReference.cache
+C:\Other\Study\OOP\LR_1-3,4_OOP\LR_1-3,4_OOP\obj\Debug\LR_1-3,4_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Other\Study\OOP\LR_1-3,4_OOP\LR_1-3,4_OOP\obj\Debug\LR_1-3,4_OOP.csproj.CoreCompileInputs.cache
+C:\Other\Study\OOP\LR_1-3,4_OOP\LR_1-3,4_OOP\obj\Debug\LR_1-3,4_OOP.exe
+C:\Other\Study\OOP\LR_1-3,4_OOP\LR_1-3,4_OOP\obj\Debug\LR_1-3,4_OOP.pdb
