@@ -1,0 +1,8 @@
+C:\Other\Study\OOP\LR_2\LR_2\bin\Debug\LR_2.exe.config
+C:\Other\Study\OOP\LR_2\LR_2\bin\Debug\LR_2.exe
+C:\Other\Study\OOP\LR_2\LR_2\bin\Debug\LR_2.pdb
+C:\Other\Study\OOP\LR_2\LR_2\obj\Debug\LR_2.csproj.AssemblyReference.cache
+C:\Other\Study\OOP\LR_2\LR_2\obj\Debug\LR_2.csproj.SuggestedBindingRedirects.cache
+C:\Other\Study\OOP\LR_2\LR_2\obj\Debug\LR_2.csproj.CoreCompileInputs.cache
+C:\Other\Study\OOP\LR_2\LR_2\obj\Debug\LR_2.exe
+C:\Other\Study\OOP\LR_2\LR_2\obj\Debug\LR_2.pdb
